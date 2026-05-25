@@ -22,3 +22,9 @@ class Developer(Enum):
     Fern = 17
     TheePotatoLord =18
     Infinite = 19
+    Finite = 20
+    Willdroyd = 21
+    H5x9p = 22
+    Starduck = 23
+    Hellzstormer = 24
+    Andrene = 25
