@@ -59,8 +59,8 @@ class Map(Enum):
                          [os.path.join("Base.SC2Data", "GameData", "Terrain", "RuinsOfImladoon.xml")],
                          os.path.join(KS2_MAPS_DIRECTORY, "ruins_of_imladoon.SC2Map"),
                          False,
-                         False,
                          True,
+                         False,
                          Developer.Templar)
     Four_Seasons = (4,
                     {
